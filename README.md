@@ -15,3 +15,8 @@ _Server is running on localhost:3001_
 
 _client is running on localhost:3000_
 
+**Use Google Oauth2 for client Authentication and login**__
+
+**Use JSON server for API**__
+https://www.npmjs.com/package/json-server
+
