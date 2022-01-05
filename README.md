@@ -4,13 +4,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
-**Run Server**
+**Run Server - **
 **Go inside server folder and run npm start**
 
-**Run Client**
+**Run Client - **
 **Go inside client folder and run npm start**
 
-**Run RTMP Server**
+**Run RTMP Server - **
 **Go inside rtmpServer folder and run npm start**
 
 _Server is running on localhost:3001_
